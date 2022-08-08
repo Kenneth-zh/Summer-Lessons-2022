@@ -1,8 +1,8 @@
 {
   "workbench.colorCustomizations": {
-    "activityBar.background": "#183411",
-    "titleBar.activeBackground": "#224917",
-    "titleBar.activeForeground": "#F5FBF4"
+    "activityBar.background": "#12304A",
+    "titleBar.activeBackground": "#194367",
+    "titleBar.activeForeground": "#F6FAFD"
   },
-  "cSpell.words": ["sider"]
+  "cSpell.words": ["mapstructure"]
 }
